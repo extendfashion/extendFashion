@@ -14,7 +14,7 @@ export default function Hero() {
                               <Welcome />
                           </div>
                           
-                          <h1 className="sm:text-5xl md:text-5xl lg:text-6xl font-bold">A ONE-STOP<br /> SOLUTION FOR<br /> APPAREL SOURCING</h1>
+                          <h1 className="text-5xl font-bold">A ONE-STOP<br /> SOLUTION FOR<br /> APPAREL SOURCING</h1>
                       </div>
 
 
