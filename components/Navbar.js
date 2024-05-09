@@ -85,7 +85,7 @@ const Navbar = () => {
                                             </details>
                                         </li>
                                         <li><a href="#client">CLIENTS</a></li>
-                                        // <li><a href="#sustain">SUSTAINABILITY</a></li>
+    {/*<li><a href="#sustain">SUSTAINABILITY</a></li>*/}
                                         <li><a href="#contact">CONTACT</a></li>
                                     </ul>
                                 </div>
