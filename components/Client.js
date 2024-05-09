@@ -18,7 +18,7 @@ export default function Client() {
     <section id="client">
         <div className="container mx-auto">
               <div className="hea text-center w-11/12 mx-auto">
-                  <SectionHead subTitle="Our Intro" titleFirst="A" titleLast="bout Us" />
+                  <SectionHead subTitle="Client" titleFirst="O" titleLast="ur Clients" />
                   <p className="w-8/12 mx-auto">Steady growth & long-sighted visionary thinking has helped <strong className="navLogo">Extend Fashion</strong> catering to the supply chain needs of world's leading apparel retailers & brands across the globe.</p>
               </div>
             <div className="w-2/4 mx-auto">
