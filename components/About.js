@@ -51,7 +51,7 @@ export default function About() {
                       <div className="aboutTxt text-white">
 
                           <div className="abtTxtHead text-justify mt-1">
-                              <p> <strong className="navLogo">Extend Fashion LTD.</strong> a one-stop solution for sustainable apparel sourcing and supply chain management company that stepped into the world of apparel business in 1995. </p>
+                              <p> <strong className="navLogo">Extend Fashion LTD.</strong>  is a one-stop answer for sustainable apparel sourcing and supply chain management company. </p>
                           </div>
 
                           <div className="abtIco mt-8 grid grid-cols-3 gap-x-4">
@@ -60,7 +60,7 @@ export default function About() {
                                       <PiClockCountdownFill />
                                   </div>
                                   <div className="abticoText text-center">
-                                      <h1 className="text-white text-2xl mt-1 mb-1">27+</h1>
+                                      <h1 className="text-white text-2xl mt-1 mb-1">14+</h1>
                                       <h1 className="text-white">Years of Experience</h1>
                                   </div>
                               </div>
@@ -86,8 +86,9 @@ export default function About() {
 
                           <div className="abttxtP text-justify mt-8 mb-6">
                               <p>
-                                  With over 27 years of apparel industry experience, <strong className="navLogo">Extend Fashion</strong> has managed to secure complete supply chain resources and built a strong ability to work with any fashion apparel company in the world.<br /><br />
-                                  Our solid relationships with partner manufacturers of Bangladesh & quality suppliers around the world ensures that we provide highly competitive product prices, maintain high production standards with best professional services at every stage of the supply chain. This practice enables us to build long-lasting relationships with our clients as well as our manufacturing and sourcing partners.
+                                  We achieved safe & complete supply chain resources and built a strong capacity to work with any kind of fashion apparel.<br /><br />
+                                  Our solid associations with partner manufacturers in Bangladesh & quality suppliers around the world ensure that we provide highly competitive product prices, and maintain high production standards with the best professional services at every stage of the supply chain.<br/><br/>
+                                    This practice empowers us to build long-lasting relationships with our clients as well as our manufacturing and sourcing partners.
                               </p>
                           </div>
 
