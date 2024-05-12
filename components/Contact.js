@@ -30,8 +30,8 @@ export default function Contact() {
 
                             <div className="grid grid-cols-1 gap-y-7 ">
                                 <ContactCard contactIcon={<BiMailSend />} contactTag="E-mail" contactDesc="uddin@extendfashion.com " />
-                                <ContactCard contactIcon={<LuPhoneCall />} contactTag="Phone" contactDesc="+880 ****-******" />
-                                <ContactCard contactIcon={<ImWhatsapp />} contactTag="Whatsapp" contactDesc="+880 ****-******" />
+                                <ContactCard contactIcon={<LuPhoneCall />} contactTag="Phone" contactDesc="+880 1771-777453" />
+                                <ContactCard contactIcon={<ImWhatsapp />} contactTag="Whatsapp" contactDesc="+880 1771-777453" />
                                 {/* <div className="contactCard text-center p-6 rounded-xl customBg shadow">
                                 <div className="contactCardWrapper">
                                     <div className="contactCardIcon w-fit mx-auto customLime text-3xl mb-2 grid grid-cols-5 gap-x-2 mt-3">   
