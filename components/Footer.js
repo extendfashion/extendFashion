@@ -24,7 +24,7 @@ export default function Footer() {
                             </div>
                             <div className="glassEfl p-2 relative text-white text-justify rounded-xl">
                                <p>
-                                    With over 27 years of apparel industry experience, <strong className="navLogo">Extend Fashion</strong> has managed to secure complete supply chain resources and built a strong ability to work with any fashion apparel company in the world.<br />
+                                    With over 14 years of apparel industry experience, <strong className="navLogo">Extend Fashion</strong> has managed to secure complete supply chain resources and built a strong ability to work with any fashion apparel company in the world.<br />
                                     Our solid relationships with partner manufacturers of Bangladesh & quality suppliers around the world ensures that we provide highly competitive product prices, maintain high production standards with best professional services at every stage of the supply chain. This practice enables us to build long-lasting relationships with our clients as well as our manufacturing and sourcing partners.
                                </p>
                             </div>
@@ -56,7 +56,7 @@ export default function Footer() {
                                         01. What sets Extend Fashion LTD apart in the apparel industry ?
                                     </div>
                                     <div className="collapse-content text-justify text-sm">
-                                        <p><span className="font-bold">Answer:</span> Extend Fashion LTD stands out for its 27+ years of experience, specializing in sustainable apparel sourcing and supply chain management. We prioritize quality, competitive pricing, and enduring relationships with clients and partners worldwide.</p>
+                                        <p><span className="font-bold">Answer:</span> Extend Fashion LTD stands out for its 14+ years of experience, specializing in sustainable apparel sourcing and supply chain management. We prioritize quality, competitive pricing, and enduring relationships with clients and partners worldwide.</p>
                                     </div>
                                 </div>
                                 <div className="collapse collapse-arrow join-item ">
@@ -87,7 +87,7 @@ export default function Footer() {
                                 </div>
                                 <div className="authorTxt text-white mt-4 text-justify">
                                     
-                                    <p> <strong className="navLogo">Extend Fashion LTD. </strong>Established in 1995, Extend Fashion LTD specializes in sustainable apparel sourcing and supply chain management. With over 27 years in the industry, we offer competitive pricing, maintain high production standards, and prioritize enduring relationships with clients and manufacturing partners worldwide, ensuring the best professional services at every stage.</p>
+                                    <p> <strong className="navLogo">Extend Fashion LTD. </strong>Established in 1995, Extend Fashion LTD specializes in sustainable apparel sourcing and supply chain management. With over 14 years in the industry, we offer competitive pricing, maintain high production standards, and prioritize enduring relationships with clients and manufacturing partners worldwide, ensuring the best professional services at every stage.</p>
                                     
                                 </div>
                             </div>
