@@ -21,23 +21,23 @@ export default function Product() {
 
 
                             <div className="text-justify  p-5 mt-2 rounded-3xl">
-                                <p>We are providing Business development services which are the key to ensure sourcing ability with different supplier of</p>
+                                <p>We provide Business development services which are crucial to ensuring sourcing ability with different suppliers as well as order placement negotiation.</p>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Factories </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Lace Motifs  </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Fabric </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Accessories  </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Trim </div>
 
-                                <p>as well order placement negotiation. Ensured good relationship with all the supply chain for smooth Product development. Key Services of product</p>
+                                <p>Ensured good relationships with all the supply chain for smooth Product development. Key Services of product</p>
                                 <div class="badge badge-outline navLogo csBorder m-2">- merchandising   </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- compliance audit </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- follow up production </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Inspection </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- including delivery shipment  </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- logistics   </div>
-                                <p>Our New & renovation Fabric sources are also key solutions to develop new product development opportunities.</p>
+                                <p>Our New & modernized Fabric sources are also key solutions to develop new product development opportunities.</p>
 
-                                <p>We are maintaining quality standard AQL 2.5 by controlling from: </p>
+                                <p>We are maintaining quality standard AQL 1.5~2.5 by controlling from: </p>
 
                                 <div class="badge badge-outline navLogo csBorder m-2">- Yarn </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Fabricating </div>
@@ -47,18 +47,18 @@ export default function Product() {
                                 <div class="badge badge-outline navLogo csBorder m-2">- Finishing </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Checking Accessories</div>
 
-                                <p>Packing up to cartons and to loading into containers, all these activities are managed & supervised by the numbers of well-trained merchandisers followed by teams of Q.C Quality Inspectors.</p>
+                                <p>Packing up to cartons and to loading into containers, all these activities are managed & supervised by a number of well-trained merchandisers followed by teams of Q.C Quality Inspectors.</p>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Well known better costing </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Fabric Consumption </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Manage Quality Production</div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- With Quantity</div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Inspection & Delivery</div>
-                                <p> To manage buyer all different services; </p>
+                                <p> To manage buyers all different services:</p>
 
                                 <div class="badge badge-outline navLogo csBorder m-2">- orders merchandising </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- communication</div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- support idea and expertise</div>
-                                <p>follow up buyer product development approval all merchandising works: </p>
+                                <p>follow up buyer product development approval of all merchandising works: </p>
 
 
 
@@ -73,7 +73,9 @@ export default function Product() {
                                 <div class="badge badge-outline navLogo csBorder m-2">- Final inspection</div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- issued Inspection Certificate</div><br/>
 
-                                We have developed a range of solutions & services for Global Brands Buyer, Retailer, Wholesaler with new product Design, Style, Model innovation support efforts with sustainable excellent compliance.
+                               <p> We have established a variety of solutions & services for overseas Buyers, Retailers, and Wholesalers with new creations & innovations with sustainable compliance.</p>
+
+ 
 
 
 
