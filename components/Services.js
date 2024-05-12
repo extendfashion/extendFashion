@@ -47,7 +47,7 @@ export default function Product() {
                                 <div class="badge badge-outline navLogo csBorder m-2">- Finishing </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Checking Accessories</div>
 
-                                <p>Packing up to cartons and to loading into containers, all these activities are managed & supervised by a number of well-trained merchandisers followed by teams of Q.C Quality Inspectors.</p>
+                                <p>Packing up to cartons and to loading into containers, all these activities are managed & supervised by a number of well-trained merchandisers followed by teams of Q.C, Quality Inspectors.</p>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Well known better costing </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Fabric Consumption </div>
                                 <div class="badge badge-outline navLogo csBorder m-2">- Manage Quality Production</div>
